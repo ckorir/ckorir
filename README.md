@@ -7,7 +7,7 @@ I have a strong background in Python, JavaScript, ReactJS, MySQL, Flask, NodeJS,
 ## :hammer_and_wrench:Skills
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" margin="2em" />&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40" />&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -19,7 +19,16 @@ I have a strong background in Python, JavaScript, ReactJS, MySQL, Flask, NodeJS,
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
-  </div>/n/n
+  </div>
+
+  ## :fire: My Stats
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alagwudavid" alt="Alagwudavid" width="550" /></a> </p>
+
+<a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-stats.vercel.app/api?username=Alagwudavid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Daniel's GitHub stats" /></a>
+
+<a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alagwudavid&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alagwudavid&theme=vision-friendly-merko&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" /></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckorir)](https://github.com/anuraghazra/github-readme-stats)
