@@ -4,10 +4,10 @@
 I am a full-stack software developer!
 I have a strong background in Python, JavaScript, ReactJS, MySQL, Flask, NodeJS, and Django. I have experience building web applications using JavaScript, HTML, and CSS, as well as creating engaging web interfaces using ReactJS and TailwindCSS. I also develop efficient backend systems using Django or Flask. If you're looking for a skilled developer to bring your ideas to life, please don't hesitate to reach out.
 
-### :hammer_and_wrench:Skills
-<hr />
-<div gap="20px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+## :hammer_and_wrench:Skills
+
+<div gap="200px">
+  <img gap="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
