@@ -1,4 +1,4 @@
-![Full-stack Software Engineer](https://images.pexels.com/photos/6330644/pexels-photo-6330644.jpeg/600x200)
+![Full-stack Software Engineer](https://images.pexels.com/photos/2330644/pexels-photo-6330644.jpeg)
 ## Hi there 👋, I'm Chris Ruto
 
 I am a full-stack software developer!
