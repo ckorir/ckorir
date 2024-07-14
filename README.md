@@ -1,4 +1,4 @@
-![Full-stack Software Engineer](https://images.pexels.com/photos/2330644/pexels-photo-6330644.jpeg)
+![Full-stack Software Engineer]([https://images.pexels.com/photos/2330644/pexels-photo-6330644.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.behance.net%2Fgallery%2F68097599%2FBanner-Images-for-Coding-Challenges&psig=AOvVaw1dbzEz4BtsWTUi-be3mfFa&ust=1721036863365000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOiFyImgpocDFQAAAAAdAAAAABAE))
 ## Hi there 👋, I'm Chris Ruto
 
 I am a full-stack software developer!
