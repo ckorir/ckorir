@@ -19,7 +19,7 @@ I have a strong background in Python, JavaScript, ReactJS, MySQL, Flask, NodeJS,
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Laravel" **alt="Laravel" width="40" height="40"/>
-  </div>\n\n
+  </div>/n/n
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckorir)](https://github.com/anuraghazra/github-readme-stats)
