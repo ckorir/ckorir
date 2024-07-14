@@ -6,7 +6,7 @@ I have a strong background in Python, JavaScript, ReactJS, MySQL, Flask, NodeJS,
 
 ## :hammer_and_wrench:Skills
 
-<div gap="200px">
+<div gap="200px" margin="2em">
   <img gap="20px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
