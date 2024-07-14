@@ -22,16 +22,14 @@ I have a strong background in Python, JavaScript, ReactJS, MySQL, Flask, NodeJS,
   </div>
 
   ## :fire: My Stats
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Alagwudavid" alt="Alagwudavid" width="550" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ckorir" alt="ckorir" width="550" /></a> </p>
 
-<a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-stats.vercel.app/api?username=Alagwudavid&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Daniel's GitHub stats" /></a>
+<a href="http://www.github.com/ckorir"><img src="https://github-readme-stats.vercel.app/api?username=ckorir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chris's GitHub stats" /></a>
 
-<a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Alagwudavid&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/ckorir"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ckorir&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/Alagwudavid"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alagwudavid&theme=vision-friendly-merko&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" /></a>
+<a href="http://www.github.com/ckorir"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckorir&theme=vision-friendly-merko&layout=compact&hide_border=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917" /></a>
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckorir)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ckorir/ckorir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
