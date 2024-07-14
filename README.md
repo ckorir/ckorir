@@ -1,4 +1,4 @@
-![Full-stack Software Engineer](https://www.shutterstock.com/image-vector/programming-software-development-web-page-600nw-1682028748.jpg)
+![Full-stack Software Engineer](https://a.storyblok.com/f/90801/1920x600/d5fcdc8698/code-banner.png/m/)
 ## Hi there 👋, I'm Chris Ruto
 
 I am a full-stack software developer!
