@@ -1,3 +1,4 @@
+![Full-stack Software Engineer](https://pbs.twimg.com/profile_banners/1354817665634734087/1675835459/600x200)
 ## Hi there 👋
 
 <!--
