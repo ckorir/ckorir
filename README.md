@@ -1,4 +1,4 @@
-![Full-stack Software Engineer]([https://pbs.twimg.com/profile_banners/1354817665634734087/1675835459/600x200](https://www.pexels.com/photo/person-using-macbook-air-6330644/))
+![Full-stack Software Engineer](https://www.pexels.com/photo/person-using-macbook-air-6330644/)
 ## Hi there 👋, I'm Chris Ruto
 
 I am a full-stack software developer!
