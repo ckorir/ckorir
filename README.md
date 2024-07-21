@@ -21,7 +21,7 @@ I have a strong background in Python, JavaScript, ReactJS, MySQL, Flask, NodeJS,
 
   ## :fire: My Stats
 
-<p align="left" width="100vw"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ckorir&no-bg=true&no-frame=true" alt="Chris" width="550" /></a> </p>
+<p align="left" width="100vw"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ckorir&theme=onestar&no-frame=true" alt="Chris" width="550" /></a> </p>
 
 <a href="http://www.github.com/ckorir"><img src="https://github-readme-stats.vercel.app/api?username=ckorir&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chris's GitHub stats" /></a>
 
